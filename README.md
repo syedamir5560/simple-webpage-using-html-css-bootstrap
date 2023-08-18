@@ -2,7 +2,12 @@
 
 Welcome to the repository for our simple web page project! This project demonstrates the creation of a basic web page using HTML, CSS, and the Bootstrap framework.
 
-![Web Page Screenshot](<screenshot_link>)
+<img src="readme-images/pic1.jpeg" width=500>
+
+<img src="readme-images/pic2.jpeg" width=500>
+
+<img src="readme-images/pic5.jpeg" width=500>
+
 
 ## Table of Contents
 
