@@ -2,6 +2,8 @@
 
 Welcome to the repository for our simple web page project! This project demonstrates the creation of a basic web page using HTML, CSS, and the Bootstrap framework.
 
+- [Visit this page](https://syedamir5560.github.io/simple-webpage-using-html-css-bootstrap/)
+
 <img src="readme-images/pic1.jpeg" width=500>
 
 <img src="readme-images/pic2.png" width=500>
