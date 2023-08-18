@@ -4,9 +4,9 @@ Welcome to the repository for our simple web page project! This project demonstr
 
 <img src="readme-images/pic1.jpeg" width=500>
 
-<img src="readme-images/pic2.jpeg" width=500>
+<img src="readme-images/pic2.png" width=500>
 
-<img src="readme-images/pic5.jpeg" width=500>
+<img src="readme-images/pic5.png" width=500>
 
 
 ## Table of Contents
