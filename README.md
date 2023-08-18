@@ -11,7 +11,6 @@ Welcome to the repository for our simple web page project! This project demonstr
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## Description
 
@@ -34,7 +33,7 @@ This project showcases the development of a straightforward web page by combinin
 ## Dependencies
 
 - [Bootstrap](https://getbootstrap.com/): The CSS framework responsible for styling the web page components.
-- [Font Awesome](https://fontawesome.com/): Used for incorporating icons into the design.
+
 
 ## Contributions
 
